@@ -15,3 +15,20 @@
 </h3>
 
 ---
+
+<h3 align="center">
+
+**My Programming languages**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,golang,c)](https://skillicons.dev)
+
+**Libraries, Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vim,qt,cmake)](https://skillicons.dev)
+
+</h3>
+
+---
+
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rukiamuq-hard&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
