@@ -1,7 +1,7 @@
 **<div align="center"><h1>👋Hi, I'm Roman, Software Engineer👋</h1></div>**
 
 
-![Banner](https://drive.google.com/uc?id=1dyaQT27NIdloJZdRg5cyUGKvUiYLMTYC)
+![Banner](https://drive.google.com/uc?id=1TOiPsFvhFnBsQKJDbLFJZMFOP3cgD0Jr)
 
 <h3 align="center">Contact with me:</h3>
 <h3 align="center">
