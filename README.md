@@ -30,3 +30,9 @@
 
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rukiamuq-hard&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="center">
+  
+<a href="https://u8views.com/github/rukiamuq-hard"><img src="https://u8views.com/api/v1/github/profiles/216137840/views/day-week-month-total-count.svg"></a>
+
+</h3>
