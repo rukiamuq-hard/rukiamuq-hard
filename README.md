@@ -21,7 +21,7 @@
 
 **Libraries, Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,qt,cmake)](https://skillicons.dev)
+[![My Tools/Libs](https://skillicons.dev/icons?i=git,github,neovim,sqlite,visualstudio,vscode,sublime,powershell,arduino,ai,cmake)](https://skillicons.dev)
 
 </h3>
 
