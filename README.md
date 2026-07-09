@@ -28,7 +28,9 @@
 
 **Libraries, Technologies**
 
-[![My Tools/Libs](https://skillicons.dev/icons?i=git,github,neovim,sqlite,visualstudio,vscode,sublime,powershell,arduino,obsidian,cmake)](https://skillicons.dev)
+[![My Tools/Libs](https://skillicons.dev/icons?i=git,github,sqlite,powershell,cmake)](https://skillicons.dev)
+
+[![My Tools/Libs](https://skillicons.dev/icons?i=neovim,visualstudio,vscode,arduino,obsidian)](https://skillicons.dev)
 
 </h3>
 
