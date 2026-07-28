@@ -7,7 +7,6 @@
 [![DOU](https://img.shields.io/badge/DOU_Profile-gray?style=for-the-badge)](https://dou.ua/users/voi-ce/)
 </h3>
 
-![Banner](https://drive.google.com/uc?id=1TOiPsFvhFnBsQKJDbLFJZMFOP3cgD0Jr)
 
 <h3 align="center">
 
