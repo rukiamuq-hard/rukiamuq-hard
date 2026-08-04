@@ -1,10 +1,11 @@
-**<div align="center"><h2>👋Hi, I'm Roman, Software Engineer👋</h2></div>**
+**<div align="center"><h1>👋Hi, I'm Roman, Software Engineer👋</h1></div>**
 
 <h3 align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-tsyhanskiy-4a44723b9/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kusainaga)
 [![DOU](https://img.shields.io/badge/DOU_Profile-gray?style=for-the-badge)](https://dou.ua/users/voi-ce/)
+
 </h3>
 
 
