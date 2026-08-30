@@ -15,9 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,golang,c)](https://skillicons.dev)
 
-**Libraries, Technologies**
+**Technologies**
 
-[![My Tools/Libs](https://skillicons.dev/icons?i=git,github,sqlite,powershell,redis,docker,mongodb,cmake)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,github,sqlite,powershell,redis,docker,mongodb,postgres,cmake)](https://skillicons.dev)
 
 [![IDE](https://skillicons.dev/icons?i=neovim,visualstudio,vscode,arduino,obsidian)](https://skillicons.dev)
 
