@@ -23,9 +23,6 @@
 
 </h3>
 
----
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rukiamuq-hard&custom_title=Activity%20Graph&hide_border=true&theme=tokyo-night&radius=16&days=35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://rukiamuq.donatik.ua/" target="_blank" rel="noopener noreferrer">
